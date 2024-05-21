@@ -63,19 +63,19 @@ h1,h2,h3{
     font-size: 2rem;
 }
 
-/*
+
 .navegacion-principal{
     background-color: var(--secundario);
 
 }
-*/
+
 /*Esto es dentro del nav, la clase la llamamos navegacion-principal contenedor*/
 .contenedor{
     width: 120rem;
-    /*margin-top: 0;
+    margin-top: 0;
     margin-right: auto;
     margin-bottom: 0;
-    margin-left: auto;*/
+    margin-left: auto;
     margin: 0 auto;
 
 }
@@ -96,7 +96,7 @@ h1,h2,h3{
 
 .navegacion-principal a{
     padding: 1rem; /*Aqui se coloca el padding para que se refleje con el hover*/
-    /*display: block;  Para poner los elementos uno sobre otro*/
+    display: block;  /*Para poner los elementos uno sobre otro*/
     color: var(--blanco); /*Color de la letra*/
     text-decoration: none;
 }
